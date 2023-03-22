@@ -5,6 +5,7 @@ requirements = [
     'jupyter',
     'numpy',
     'matplotlib',
+    'matplotlib_inline',
     'requests==2.25.1',
     'pandas'
 ]
